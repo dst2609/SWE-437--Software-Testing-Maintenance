@@ -7,7 +7,7 @@
  *  Changed several public methods to private
  *  Cleaned up formatting
  *  Update September 2019 Devarsh Thaker SWE437
- *  Updateed to Command Line arguments for month year, fixed faults.
+ *  Updated to Command Line arguments for month year, fixed faults.
  */
 
 import java.util.Scanner;
